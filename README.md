@@ -1,12 +1,12 @@
 ## geopython_application
 
-A GeoPython application using Machine Learning techniques to observe fire damage, deforestation and snow cover in some places in Argentina 
+# A GeoPython application using Machine Learning techniques to observe fire damage, deforestation and snow cover in some places in Argentina 
 
 
 This script process data from raster images (from differents years and seasons for three areas in Argentina) to observe some situations like fire damage in Patagonia, deforestation in Salta and snow cover in San Juan.
 
 
-We need some Python libraries instaled in the working environment: numpy, pandas, matplotlib, gdal and sklearn.
+# We need some Python libraries instaled in the working environment: numpy, pandas, matplotlib, gdal and sklearn.
 
 
 In order to understand changes in the same area for different time, I used an unsupervised learning technique known like K-Means to classify NDVI index to identify deforested areas near Salta City, by comparison between an image taken in 1986 with another taken in 2017.
