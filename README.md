@@ -15,7 +15,7 @@ In order to understand changes in the same area for different time, I used an un
 To observe the severity of fire damage in Cholila Lake area, near Los Alerces National Park in Patagonia, I used an interval classification on NBR index to compare forest before and after fire (some days between both satelital images).
 
 
-I tried to identify areas with snow cover for winter and summer, both from same year, in the La Majadita Glacier, San Juan, by K-Means classification and by interval classification.
+I tried to identify areas with snow cover for winter and summer, both from same year, in the La Majadita Glacier, San Juan. I used Snow index and I classify it by K-Means classification and by interval classification.
 
 
 For all of these situations, some graphics are generated for a better comprehension. I attached this files to this repo.
